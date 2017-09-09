@@ -12,6 +12,7 @@
 		C4D07C381F63AC1000A75E33 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4D07C361F63AC1000A75E33 /* Main.storyboard */; };
 		C4D07C3A1F63AC1000A75E33 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C4D07C391F63AC1000A75E33 /* Assets.xcassets */; };
 		C4D07C3D1F63AC1000A75E33 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4D07C3B1F63AC1000A75E33 /* LaunchScreen.storyboard */; };
+		C4D07C451F63BFE900A75E33 /* oskar-vertetics-53043.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C4D07C441F63BFE900A75E33 /* oskar-vertetics-53043.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C4D07C391F63AC1000A75E33 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C4D07C3C1F63AC1000A75E33 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C4D07C3E1F63AC1000A75E33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C4D07C441F63BFE900A75E33 /* oskar-vertetics-53043.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "oskar-vertetics-53043.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				C4D07C321F63AC1000A75E33 /* AppDelegate.swift */,
+				C4D07C441F63BFE900A75E33 /* oskar-vertetics-53043.jpg */,
 				C4D07C341F63AC1000A75E33 /* ViewController.swift */,
 				C4D07C361F63AC1000A75E33 /* Main.storyboard */,
 				C4D07C391F63AC1000A75E33 /* Assets.xcassets */,
@@ -125,6 +128,7 @@
 			files = (
 				C4D07C3D1F63AC1000A75E33 /* LaunchScreen.storyboard in Resources */,
 				C4D07C3A1F63AC1000A75E33 /* Assets.xcassets in Resources */,
+				C4D07C451F63BFE900A75E33 /* oskar-vertetics-53043.jpg in Resources */,
 				C4D07C381F63AC1000A75E33 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
